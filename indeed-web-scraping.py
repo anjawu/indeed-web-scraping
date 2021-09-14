@@ -66,8 +66,3 @@ for i, job_elem in enumerate(job_elems):
     # in this case breakpoint() allowed us to check each individual variable to see if it was None
     # except:
     #     breakpoint()
-
-
-
-
-# data analysis intro: https://www.youtube.com/watch?v=cXP_i5-nTXg
